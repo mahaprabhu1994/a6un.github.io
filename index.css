@@ -25,7 +25,7 @@ h2{
 #particles-js{
 	background-color: #2477c4;
   background-size:cover;
-  background-image: url(tree.jpg);
+  background-image: linear-gradient(to right bottom, rgba(83, 104, 119, 0.8), rgba(117, 80, 119, 0.8)), url(man.jpg);
 }
 
 
